@@ -1,14 +1,12 @@
 ## Available functionalities:
 
-+ Login and logout, forget password  (Lock account in 5 minutes after 3 failed attempts).
++ Login and logout.
 
 + Manage employees (Add, edit and delete).
 
 + Manage countries, cities, states (Add, edit and delete).
 
 + Manage users (Add, edit and delete).
-
-+ Manage salary (Add, edit and delete).
 
 + Manage division (Add, edit and delete).
 
@@ -24,10 +22,10 @@
 
 + Responsive
 
-## Guide Video
-https://www.youtube.com/watch?v=Jbt5bEgv_QM
+## Demo Video
+https://www.youtube.com/watch?v=kIOyzuGvw38&feature=youtu.be
 
-## Hotfix Videos
+## References Code
 https://www.youtube.com/watch?v=bDmmKOdgIeY
 
 https://www.youtube.com/watch?v=cEdQvdYLuSg
